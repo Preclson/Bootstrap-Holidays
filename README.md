@@ -8,4 +8,4 @@
 Project is: _finished_
 
 ## Contact
-Created by [@Preclson](https://github.com/Preclson). You can contact me by [email](mailto:reclikp@gmail.com?subject=[GitHub]%20WPF-UserManagementApp)
+Created by [@Preclson](https://github.com/Preclson). You can contact me by [email](mailto:reclikp@gmail.com?subject=[GitHub]%20WPF-UserManagementApp).
