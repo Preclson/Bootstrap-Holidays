@@ -9,7 +9,7 @@ body{
 
 header{
     height: 50vh;
-    background-image: url('/img/background-mountains.jpg');
+    background-image: url('../img/background-mountains.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
